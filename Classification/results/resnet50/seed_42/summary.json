@@ -1,0 +1,14 @@
+{
+  "model_name": "resnet50",
+  "seed": 42,
+  "best_epoch": 13,
+  "best_val_acc": 0.9869739478957916,
+  "macro_precision": 0.9868384519050357,
+  "macro_recall": 0.9876921044875133,
+  "macro_f1": 0.9872306305292504,
+  "macro_auc": 0.9995863649806163,
+  "total_params": 23516228,
+  "trainable_params": 23516228,
+  "avg_epoch_time_sec": 50.38034841418266,
+  "num_epochs_trained": 24
+}

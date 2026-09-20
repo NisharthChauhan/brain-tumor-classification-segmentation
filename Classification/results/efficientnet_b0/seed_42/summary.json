@@ -1,0 +1,14 @@
+{
+  "model_name": "efficientnet_b0",
+  "seed": 42,
+  "best_epoch": 30,
+  "best_val_acc": 0.9939879759519038,
+  "macro_precision": 0.9943598952055669,
+  "macro_recall": 0.9943598952055669,
+  "macro_f1": 0.9943598952055669,
+  "macro_auc": 0.9998213082211085,
+  "total_params": 4012672,
+  "trainable_params": 4012672,
+  "avg_epoch_time_sec": 25.506340125711954,
+  "num_epochs_trained": 41
+}

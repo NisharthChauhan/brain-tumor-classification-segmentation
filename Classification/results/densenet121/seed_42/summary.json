@@ -1,0 +1,14 @@
+{
+  "model_name": "densenet121",
+  "seed": 42,
+  "best_epoch": 12,
+  "best_val_acc": 0.9929859719438878,
+  "macro_precision": 0.9931242488465795,
+  "macro_recall": 0.9930996127543874,
+  "macro_f1": 0.9930998409576429,
+  "macro_auc": 0.9998952359935275,
+  "total_params": 6957956,
+  "trainable_params": 6957956,
+  "avg_epoch_time_sec": 45.36241820584173,
+  "num_epochs_trained": 23
+}

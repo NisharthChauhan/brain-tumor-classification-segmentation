@@ -1,0 +1,14 @@
+{
+  "model_name": "vgg19",
+  "seed": 42,
+  "best_epoch": 29,
+  "best_val_acc": 0.9939879759519038,
+  "macro_precision": 0.994071275534403,
+  "macro_recall": 0.9935823835932571,
+  "macro_f1": 0.9938177997312636,
+  "macro_auc": 0.9997865607265961,
+  "total_params": 139586628,
+  "trainable_params": 139586628,
+  "avg_epoch_time_sec": 111.7254659295082,
+  "num_epochs_trained": 40
+}
