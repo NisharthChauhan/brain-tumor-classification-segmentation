@@ -200,15 +200,3 @@ summary = train_segmentation_model(
 ![Sample Segmentation Result](Segmentation/Sample%20Result/SampleResult.png)
 
 ---
-
-## Reference
-
-This project is based on and extends the work from:
-
-> Alkharaan, R., Alobaidi, J., Bakarman, J., & Alshamlan, H. (2026). *Brain Tumor Classification and Segmentation in MR Images Using EfficientNet and U-Net++ Models*. Diagnostics, 16, 1745. https://doi.org/10.3390/diagnostics16111745
-
----
-
-## License
-
-Dataset: BRISC2025 is released under CC BY 4.0 by Fateh et al. (2025).
